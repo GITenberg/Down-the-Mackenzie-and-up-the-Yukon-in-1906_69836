@@ -1,0 +1,39 @@
+_repo: Down-the-Mackenzie-and-up-the-Yukon-in-1906_69836
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Brown, Ernest
+    gutenberg_agent_id: '55424'
+    url: http://www.gutenberg.org/2009/agents/55424
+creator:
+  author:
+    agent_name: Stewart, Elihu
+    birthdate: 1844
+    deathdate: 1935
+    gutenberg_agent_id: '55348'
+    url: http://www.gutenberg.org/2009/agents/55348
+description: ''
+gutenberg_issued: '2023-01-19'
+identifiers:
+  gutenberg: '69836'
+  lccn: '13035658'
+language: en
+pgterms:marc904: https://archive.org/details/downmackenzieupy00stewuoft/page/n9/mode/2up
+pgterms:marc905: 20200615102041stewart
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Sonya Schermann, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: The Ballantine Press,1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mackenzie (N.W.T.) -- Description and travel'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- Description and travel'
+- !lcc 'F1001'
+- GITenberg
+title: Down the Mackenzie and up the Yukon in 1906
+url: http://www.gutenberg.org/ebooks/69836
