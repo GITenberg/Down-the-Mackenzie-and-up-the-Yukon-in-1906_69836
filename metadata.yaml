@@ -5,6 +5,9 @@ contributor:
     agent_name: Brown, Ernest
     gutenberg_agent_id: '55424'
     url: http://www.gutenberg.org/2009/agents/55424
+covers:
+- cover_type: archival
+  image_path: 69836-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, Elihu
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '55348'
     url: http://www.gutenberg.org/2009/agents/55348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69836#Down-the-Mackenzie-and-up-the-Yukon-in-1906
 gutenberg_issued: '2023-01-19'
 identifiers:
   gutenberg: '69836'
